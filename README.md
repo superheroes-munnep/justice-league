@@ -21,6 +21,7 @@ git add .
 - commit the changes
 ```
 git commit -am "changes made"
+```
 - push the changes
 ```
 git push 
